@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: Makes the player grab the sword in the stone, and it shows the way out of the forest
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
