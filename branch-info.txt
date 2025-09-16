@@ -1,7 +1,16 @@
 Branches in this repo (with details):
 
-- main
-  SHA: a8b0f7cbc0597f2e3819fef3a85633d7f5d31655
-  Commits: 1
+- hero-path
+  SHA: a22f1c8ff17e0d22f0382218423d89e5c00303f1
+  Commits: 4
   Recent commits:
+    a22f1c8 | Author: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Committer: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-09-16T13:43:43-04:00 | Added that the sword brightens the area and allows the player a way out
+    fd039b0 | Author: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Committer: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-09-16T13:40:35-04:00 | Added more for grabbing the sword and pulling out of the stone
+    2f2c40b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:57:33Z | Auto-update branch-info.txt
+    a8b0f7c | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:57:21-04:00 | Initial commit
+- main
+  SHA: 2f2c40bec4b1ee0d95e6ecd857fca86c9aa793a0
+  Commits: 2
+  Recent commits:
+    2f2c40b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:57:33Z | Auto-update branch-info.txt
     a8b0f7c | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:57:21-04:00 | Initial commit
