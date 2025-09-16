@@ -1,17 +1,19 @@
 Branches in this repo (with details):
 
 - hero-path
-  SHA: a22f1c8ff17e0d22f0382218423d89e5c00303f1
-  Commits: 4
+  SHA: 65073c4bf5e8eaa6e0a4956ecf23e951ad78ed29
+  Commits: 5
   Recent commits:
+    65073c4 | Author: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Committer: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-09-16T14:03:23-04:00 | Updated the README.md
     a22f1c8 | Author: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Committer: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-09-16T13:43:43-04:00 | Added that the sword brightens the area and allows the player a way out
     fd039b0 | Author: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Committer: NumairHussain <123851476+NumairHussain@users.noreply.github.com> | Date: 2025-09-16T13:40:35-04:00 | Added more for grabbing the sword and pulling out of the stone
     2f2c40b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:57:33Z | Auto-update branch-info.txt
     a8b0f7c | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:57:21-04:00 | Initial commit
 - main
-  SHA: 18900972a78301f4e931a4c0779d9247dff68d8c
-  Commits: 3
+  SHA: 145f925c2cc82eeb57e01689466aee0c14d98de1
+  Commits: 4
   Recent commits:
+    145f925 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T18:02:07Z | Auto-update branch-info.txt
     1890097 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T17:52:35Z | Auto-update branch-info.txt
     2f2c40b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T16:57:33Z | Auto-update branch-info.txt
     a8b0f7c | Author: Numair Hussain <123851476+NumairHussain@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T12:57:21-04:00 | Initial commit
