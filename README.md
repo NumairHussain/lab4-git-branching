@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: Makes the player the squirrel king and they never leave the forest.
 
 ## Final Checklist
 
